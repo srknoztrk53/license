@@ -1,11 +1,19 @@
 {
-  "serial": "TRIAL-9876-5432-WXYZ",
-  "machine_id": "xyz789uvw",
-  "type": "trial",
-  "expire_date": "2025-12-31T23:59:59"
-}
-{
-  "serial": "PREMIUM-1234-5678-ABCD",
-  "machine_id": "abc123def",
-  "type": "premium"
+  "licenses": [
+    {
+      "serial": "PREMIUM-XXXX-XXXX-XXXX",
+      "machine_id": "abc123def456",
+      "type": "premium",
+      "owner": "Premium Kullanıcı"
+    },
+    {
+      "serial": "TRIAL-YYYY-YYYY-YYYY",
+      "machine_id": null,
+      "type": "trial",
+      "expire_date": "2025-12-31T23:59:59",
+      "owner": "Trial Kullanıcı"
+    }
+  ],
+  "last_update": "2024-12-06T10:00:00",
+  "version": "1.0"
 }
