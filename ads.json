@@ -7,8 +7,8 @@
       "owner": "Premium Kullanıcı"
     },
     {
-      "serial": "TRIAL-YYYY-YYYY-YYYY",
-      "machine_id": null,
+      "serial": "TRIAL-1234-1234-1234",
+      "machine_id": b18a3a0b9d107451f37446b6,
       "type": "trial",
       "expire_date": "2025-12-31T23:59:59",
       "owner": "Trial Kullanıcı"
