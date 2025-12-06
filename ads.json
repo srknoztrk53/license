@@ -1,0 +1,11 @@
+{
+  "serial": "TRIAL-9876-5432-WXYZ",
+  "machine_id": "xyz789uvw",
+  "type": "trial",
+  "expire_date": "2025-12-31T23:59:59"
+}
+{
+  "serial": "PREMIUM-1234-5678-ABCD",
+  "machine_id": "abc123def",
+  "type": "premium"
+}
