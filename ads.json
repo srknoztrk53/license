@@ -12,6 +12,13 @@
       "type": "trial",
       "expire_date": "2025-12-31T23:59:59",
       "owner": "Trial Kullanıcı"
+    },
+    {
+      "serial": "TRIAL-1852-4535-8874",
+      "machine_id": 15ea392a8afd8c6ff236a823,
+      "type": "trial",
+      "expire_date": "2025-12-31T23:59:59",
+      "owner": "Trial Kullanıcı"
     }
   ],
   "last_update": "2024-12-06T10:00:00",
