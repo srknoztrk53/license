@@ -15,10 +15,10 @@
     },
     {
       "serial": "TRIAL-1852-4535-8874",
-      "machine_id": "15ea392a8afd8c6ff236a823", 
+      "machine_id": "15ea392a8afd8c6ff236a823",
       "type": "trial",
-      "expire_date": "2025-12-31T23:59:59",
-      "owner": "Trial Kullanıcı"
+      "expire_date": "2026-01-05T23:59:59",
+      "owner": "Test Kullanıcısı"
     }
   ],
   "last_update": "2024-12-06T10:00:00",
